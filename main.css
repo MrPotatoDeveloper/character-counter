@@ -1,0 +1,17 @@
+body{
+    background-color:  khaki;
+    text-align: center;
+    font-family: Inter;
+}
+
+button{
+    background-color:orange;
+    color:white;
+    width: 25%;
+    border-radius: 0.3rem;
+    font-size: 18px;
+}
+#textarea{
+    border-radius: 0.3rem;
+    background-color: blanchedalmond;
+}
