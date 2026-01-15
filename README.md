@@ -1,4 +1,4 @@
-Character Counter
+Character Counter - https://peaceful-sfogliatella-a44b73.netlify.app/
 Real-time character and word counter with Twitter-style limits. Shows counts as you type and warns when exceeding 280 characters.
 
 Features:
